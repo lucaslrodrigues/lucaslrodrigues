@@ -1,5 +1,5 @@
 ### Ola!!
-Sou Lucas, estudante de analise e desenvolvimento de sistemas
+### Sou Lucas, estudante de analise e desenvolvimento de sistemas 👨‍💻
 <!--
 **lucaslrodrigues/lucaslrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
