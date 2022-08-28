@@ -15,7 +15,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <br><br>
 </div>
-
+<!--
          ._________________.
          |.---------------.|
          ||               ||
@@ -29,3 +29,4 @@
        /.-.-.-.-.-.-.-.-.-.-.\
       /______/__________\___o_\
       \_______________________/
+-->
