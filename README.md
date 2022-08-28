@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/lucaslrodrigues">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslrodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslrodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
