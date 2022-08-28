@@ -1,18 +1,6 @@
 ### Ola!!
 ### Sou Lucas, estudante de analise e desenvolvimento de sistemas 👨‍💻
 <!--
-**lucaslrodrigues/lucaslrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <div align="center">
@@ -28,3 +16,17 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+         ._________________.
+         |.---------------.|
+         ||               ||
+         ||     HELLO     ||
+         ||     WORLD     ||
+         ||               ||
+         ||               ||
+         ||_______________||
+         /.-.-.-.-.-.-.-.-.\
+        /.-.-.-.-.-.-.-.-.-.\
+       /.-.-.-.-.-.-.-.-.-.-.\
+      /______/__________\___o_\
+      \_______________________/
