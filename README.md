@@ -26,7 +26,7 @@
     </p>
 
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&&count_private=true&theme=github_dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
 </p>
     
 <p align="center">
