@@ -17,25 +17,31 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <br><br>
 </div>
-<!--
-         ._________________.
-         |.---------------.|
-         ||               ||
-         ||     HELLO     ||
-         ||     WORLD     ||
-         ||               ||
-         ||               ||
-         ||_______________||
-         /.-.-.-.-.-.-.-.-.\
-        /.-.-.-.-.-.-.-.-.-.\
-       /.-.-.-.-.-.-.-.-.-.-.\
-      /______/__________\___o_\
-      \_______________________/
 
-<div>
+<details>
+<summary>Detalhes</summary>
 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
--->
+<p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=lucaslrodrigues&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+    </p>
+
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&&count_private=true&theme=github_dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+</p>
+    
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslrodrigues&theme=ayu-mirage" alt="Streak Stats" />
+</p>
+
+<p align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=lucaslrodrigues&theme=xcode&bg_color=151515" alt="Activity Graph" />
+    </p>
+</details>
+
+<details>
+<summary>snakegame</summary>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</details>
+
