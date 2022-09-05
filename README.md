@@ -3,9 +3,9 @@
 
 <div align="center">
   
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,174dc8,9a123b&title_color=fff&text_color=fff"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,174dc8,000&title_color=fff&text_color=fff"/>
   
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslrodrigues&layout=compact&langs_count=7&&bg_color=30,174dc8,9a123b&title_color=fff&text_color=fff"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslrodrigues&layout=compact&langs_count=7&&bg_color=30,174dc8,000&title_color=fff&text_color=fff"/>
 
 </div>
 
@@ -22,19 +22,19 @@
 <summary>Detalhes</summary>
 
 <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=lucaslrodrigues&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+        <img src="https://github-profile-trophy.vercel.app/?username=lucaslrodrigues&theme=algolia&margin-w=15" alt="Trophies GitHub" />
     </p>
 
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&&count_private=true&theme=ayu-mirage&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
 </p>
     
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslrodrigues&theme=ayu-mirage" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslrodrigues&theme=algolia" alt="Streak Stats" />
 </p>
 
 <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=lucaslrodrigues&theme=xcode&bg_color=151515" alt="Activity Graph" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=lucaslrodrigues&bg_color=30,174dc8,000&title_color=fff&text_color=fff" alt="Activity Graph" />
     </p>
 </details>
 
@@ -44,4 +44,3 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </details>
-
