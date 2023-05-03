@@ -32,10 +32,6 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslrodrigues&theme=algolia" alt="Streak Stats" />
 </p>
-
-<p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=lucaslrodrigues&bg_color=30,174dc8,000&title_color=fff&text_color=fff" alt="Activity Graph" />
-    </p>
 </details>
 
 <details>
