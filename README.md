@@ -3,9 +3,9 @@
 
 <div align="center">
   
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,174dc8,000&title_color=fff&text_color=000"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucaslrodrigues&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,174dc8,000&title_color=fff&text_color=fff"/>
   
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslrodrigues&layout=compact&langs_count=7&&bg_color=30,174dc8,000&title_color=fff&text_color=000"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslrodrigues&layout=compact&langs_count=7&&bg_color=30,174dc8,000&title_color=fff&text_color=fff"/>
 
 </div>
 
