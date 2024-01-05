@@ -1,5 +1,5 @@
 ### Ola!!
-### Sou Lucas, estudante de analise e desenvolvimento de sistemas 👨‍💻
+### Sou o Lucas, estudante de analise e desenvolvimento de sistemas 👨‍💻
 
 <div align="center">
   
